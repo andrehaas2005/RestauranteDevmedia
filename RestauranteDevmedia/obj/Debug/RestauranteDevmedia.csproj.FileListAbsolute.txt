@@ -1,0 +1,16 @@
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\RestauranteDevmedia.dll
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\RestauranteDevmedia.pdb
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\FluentNHibernate.dll
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\Iesi.Collections.dll
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\Nancy.dll
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\Nancy.Hosting.Aspnet.dll
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\NHibernate.dll
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\FluentNHibernate.pdb
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\FluentNHibernate.xml
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\Iesi.Collections.xml
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\Nancy.xml
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\Nancy.Hosting.Aspnet.xml
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\bin\NHibernate.xml
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\obj\Debug\RestauranteDevmedia.csprojResolveAssemblyReference.cache
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\obj\Debug\RestauranteDevmedia.dll
+C:\MeusProjetos\Projects\RestauranteDevmedia\RestauranteDevmedia\obj\Debug\RestauranteDevmedia.pdb
